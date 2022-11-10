@@ -1,0 +1,67 @@
+[
+	{
+		"bstack:options": {
+			"os": "OS X",
+			"osVersion": "High Sierra",
+			"resolution": "1920x1080",
+			"projectName": "BrowserStack GoLang",
+			"buildName": "Demo-GoLang",
+			"sessionName": "GoLang Firefox Test",
+			"local": "false",
+			"debug": "true",
+			"consoleLogs": "verbose",
+			"networkLogs": "true",
+			"seleniumVersion": "4.0.0-alpha-6"
+		},
+		"browserName": "Firefox",
+		"browserVersion": "latest"
+	},
+	{
+		"bstack:options": {
+			"os": "OS X",
+			"osVersion": "High Sierra",
+			"resolution": "1920x1080",
+			"projectName": "BrowserStack GoLang",
+			"buildName": "Demo-GoLang",
+			"sessionName": "GoLang Chrome Test",
+			"local": "false",
+			"debug": "true",
+			"consoleLogs": "disable",
+			"seleniumVersion": "3.14.0"
+		},
+		"browserName": "Chrome",
+		"browserVersion": "latest"
+	},
+	{
+		"bstack:options": {
+			"os": "OS X",
+			"osVersion": "Catalina",
+			"resolution": "1920x1080",
+			"projectName": "BrowserStack GoLang",
+			"buildName": "Demo-GoLang",
+			"sessionName": "GoLang Safari Test",
+			"local": "false",
+			"debug": "true",
+			"consoleLogs": "disable",
+			"seleniumVersion": "4.0.0-alpha-6"
+		},
+		"browserName": "Safari",
+		"browserVersion": "13.1"
+	},
+	{
+		"bstack:options": {
+			"os": "Windows",
+			"osVersion": "10",
+			"resolution": "2048x1536",
+			"projectName": "BrowserStack GoLang",
+			"buildName": "Demo-GoLang",
+			"sessionName": "GoLang Edge Test",
+			"local": "false",
+			"debug": "true",
+			"consoleLogs": "disable",
+			"seleniumVersion": "4.0.0-alpha-6"
+		},
+		"browserName": "Edge",
+		"browserVersion": "latest"
+	}
+]
