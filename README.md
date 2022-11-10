@@ -2,8 +2,7 @@
 
 ---
 
-[![BrowserStack Status]([![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=TWUzdVZxUDBoM2Q0M2swbTBDNE1lK3BGUmovdGg1M0M0Y3VLQWtjV1JDYz0tLVhyblVJRlprOXdIZVBwTSsrMWlFL0E9PQ==--a961eeb7b853bafe0c2a4207c77b48cc32366410%)](https://automate.browserstack.com/public-build/TWUzdVZxUDBoM2Q0M2swbTBDNE1lK3BGUmovdGg1M0M0Y3VLQWtjV1JDYz0tLVhyblVJRlprOXdIZVBwTSsrMWlFL0E9PQ==--a961eeb7b853bafe0c2a4207c77b48cc32366410%)
-)
+[![BrowserStack Status](https://automate.browserstack.com/badge.svg?badge_key=TWUzdVZxUDBoM2Q0M2swbTBDNE1lK3BGUmovdGg1M0M0Y3VLQWtjV1JDYz0tLVhyblVJRlprOXdIZVBwTSsrMWlFL0E9PQ==--a961eeb7b853bafe0c2a4207c77b48cc32366410%)](https://automate.browserstack.com/public-build/TWUzdVZxUDBoM2Q0M2swbTBDNE1lK3BGUmovdGg1M0M0Y3VLQWtjV1JDYz0tLVhyblVJRlprOXdIZVBwTSsrMWlFL0E9PQ==--a961eeb7b853bafe0c2a4207c77b48cc32366410%)
 
 This repository contains sample tests to run on the BrowserStack Infrastructure using Selenium and GoLang.
 
