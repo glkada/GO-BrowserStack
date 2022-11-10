@@ -32,6 +32,19 @@ func TestSingle(test *testing.T) {
 		// "browserName":    "Firefox",
 		// "browserVersion": "latest", // enable if you want to test using some desktop browser
 	}
+	
+	/*
+	Locators: 
+	ByID              = "id"
+	ByXPATH           = "xpath"
+	ByLinkText        = "link text"
+	ByPartialLinkText = "partial link text"
+	ByName            = "name"
+	ByTagName         = "tag name"
+	ByClassName       = "class name"
+	ByCSSSelector     = "css selector"
+	*/
+	
 	// wd, err := selenium.NewRemote(caps, fmt.Sprintf("https://%s:%s@hub-cloud.browserstack.com/wd/hub", os.Getenv("BROWSERSTACK_USERNAME"), os.Getenv("BROWSERSTACK_ACCESSKEY")))
 	wd, err := selenium.NewRemote(caps, "https://<BrowserStack_username>_<Browserstack_access_key>@hub-cloud.browserstack.com/wd/hub")
 	if err != nil {
@@ -47,6 +60,9 @@ func TestSingle(test *testing.T) {
 	// 	test.Fatal(titleErr)
 	// }
 }
+ 
+
+/* Uncomment below code as per desired*/
 
 // func TestParallel(test *testing.T) {
 // 	test.Parallel()
